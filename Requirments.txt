@@ -1,3 +1,4 @@
-turtle
-speech_recognition
+Flask
 pyttsx3
+SpeechRecognition
+turtle==0.0.1
